@@ -15,6 +15,9 @@
 			"homepage": "https://github.com/iignatov/LightOpenID"
 		}
 	],
+    "replace": {
+       "iignatov/lightopenid": "*"
+   },
 	"require": {
 		"php": ">=5.2"
 	},
